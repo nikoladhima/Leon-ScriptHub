@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nikoladhima/Leon-ScriptHub/refs/heads/main/system"))()
