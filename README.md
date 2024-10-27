@@ -1,5 +1,5 @@
 ## Script Thumbnail
-![LeonScriptHubTHUMBNAIL](https://github.com/user-attachments/assets/fa3553ae-097d-497f-8689-04ab90197acc)
+![LeonScriptHubTHUMBNAIL](https://github.com/user-attachments/assets/07638dcd-96a2-49e3-a6a9-e05ddaab61fc)
 
 ## ⚡ Features
 
