@@ -12,7 +12,7 @@
 - Anti-Virus ⚠️
 - Extras 👀
 
-## Patch Notes (Script V.1.2.9)
+## Patch Notes (Script V.1.3.7)
 
 - ND SCRIPT HUB RENAMED TO LEON SCRIPT HUB
 - NEW FULL RELEASE
