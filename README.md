@@ -15,11 +15,11 @@
 ## Patch Notes (Script V.1.3.7)
 - added a few more game scripts
 - added spectator mode to universal scripts Tab
-- NEW FE Scripts Tab with 4 fe scripts currently added
+- **NEW FE Scripts** Tab with 4 fe scripts currently added
 - Removed some features from Extras Tab
-- Removed features from Extras Tab added to a NEW Player Tabs
+- Transfered some features from Extras Tab to the **NEW Player** Tab
 - Player Tab features: hitbox expander, hitbox visualizers , custom walkspeed/jumppower, Name & Character ESP
-- added Performance Stats which are displayed on the Top Right Corner of your screen and if you go to the settings Tab there are now 2 buttons for enabling/disabling the Performance Stats on the Top Right Corner of your screen
+- added **Performance Stats** which are displayed on the Top Right Corner of your screen and if you go to the settings Tab there are now 2 buttons for enabling/disabling the Performance Stats on the Top Right Corner of your screen
 
 ## 🔌Shortened Script
 ```lua
