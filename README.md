@@ -8,7 +8,7 @@
 - Admin Scripts 📜
 - FE Scripts 📜
 - Built-in ANTI-AFK ⌨️
-- Built-in Performance Stats ![chart-bar-big (1)](https://github.com/user-attachments/assets/dfed352d-1a20-455f-8499-e83147aff49a)
+- Built-in fps/ping Display ![chart-bar-big (1)](https://github.com/user-attachments/assets/dfed352d-1a20-455f-8499-e83147aff49a)
 - Anti-Virus ⚠️
 - Extras 👀
 
