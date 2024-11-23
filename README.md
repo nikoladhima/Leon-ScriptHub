@@ -13,7 +13,7 @@
 - Anti-Virus ⚠️
 - Extras 👀
 
-## Patch Notes (Script V.1.4.3)
+## Patch Notes (Script V.1.4.5)
 - fixed some bugs
 - added full color and thickness customization to crosshair
 - added more scripts
