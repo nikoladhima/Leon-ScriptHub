@@ -13,14 +13,6 @@
 - Anti-Virus ⚠️
 - Extras 👀
 
-## Patch Notes (Script V.1.4.5)
-- fixed some bugs
-- added full color and thickness customization to crosshair
-- added more scripts
-- removed certain patched scripts
-- fixed performance stats position glitch
-- fixed crosshair bugging out
-
 ## 🔌Shortened Script
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nikoladhima/Leon-ScriptHub/refs/heads/main/system"))()
